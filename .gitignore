@@ -1,0 +1,7 @@
+.idea
+driver
+
+*.pyc
+
+cookies/cookies.json
+data.py
